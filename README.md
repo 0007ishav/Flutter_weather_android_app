@@ -27,11 +27,11 @@ To run this app, you will need the following:
 
 3. Install the necessary dependencies by running the following command in the terminal:
 
-        flutter pub get
+       flutter pub get
 
 4. Run the app on a connected device or emulator by running the following command in the terminal:
 
-         flutter run
+       flutter run
 
 
 **Usage**
