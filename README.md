@@ -3,6 +3,22 @@
 This is a simple Flutter Weather Android App, created using the Dart programming language and the Flutter framework. This app uses the OpenWeatherMap API to get the current weather and weather forecasts for a given location.
 
 
+**Weather API**
+
+This app uses the Weather API(https://www.weatherapi.com/) to get the current weather and weather forecasts. 
+
+To use this app, you will need to obtain an API key from the Weather API website. Once you have obtained your API key, you will need to add it to the
+
+android/app/src/main/AndroidManifest.xml file as follows:
+
+        <application
+             ...
+        <meta-data
+            android:name="com.weatherapi.key"
+            android:value="YOUR_API_KEY" />
+            ...
+        </application>
+
 **Getting Started**
 
 To run this app on your local machine, you will need to have Flutter installed. You can download and install Flutter from the official Flutter website.
@@ -15,6 +31,7 @@ To run this app, you will need the following:
 1. Flutter 2.0.0 or later
 2. Android Studio 4.1 or later
 3. A mobile device or emulator to run the app on
+4. An API key from the Weather API website
 
 
 **Installing**
