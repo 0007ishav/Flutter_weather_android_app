@@ -27,13 +27,18 @@ To run this app, you will need the following:
 
 3. Install the necessary dependencies by running the following command in the terminal:
 
-    flutter pub get
+        flutter pub get
 
 4. Run the app on a connected device or emulator by running the following command in the terminal:
 
-    flutter run
+         flutter run
 
 
 **Usage**
 
 When you launch the app, you will be asked to provide your location. You can enter your location manually or allow the app to access your device's location services. The app will then display the current weather for your location, as well as a 5-day weather forecast.
+
+
+**Contributing**
+
+Contributions are welcome. Please submit a pull request if you would like to make any changes to the code.
