@@ -19,9 +19,9 @@ To run this app, you will need the following:
 
 **Installing**
 
-1.Clone this repository to your local machine using the following command:
+1. Clone this repository to your local machine using the following command:
     
-    git clone https://github.com/0007ishav/Flutter_weather_android_app.git
+       git clone https://github.com/0007ishav/Flutter_weather_android_app.git
 
 2. Open the project in VS Code.
 
